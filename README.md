@@ -1,6 +1,12 @@
 # https-github.com-Shittu-A-ICODE-_COHORT12_ABU_ZARIA_DAY-2
 THIS WAS THE DAY FOR WHICH I LEARNT BASICS OF CODING AND DEPLOYING PLUS USING AI TO MAKE MY WORKFLOW EASY 
 ![Screenshot (101)](https://github.com/user-attachments/assets/49b5962d-197b-4136-a3d2-ddb0508bd944)
+
+
 THIS WAS THE SITE I WAS ABLE TO BUILD AND DEPLY ON ICPNINJA 
+
+
 ![Screenshot (99)](https://github.com/user-attachments/assets/262ae951-11e2-479a-ada5-881486c6d0e9)
+
+
 WHICH IS A DIGITAL MARKETING WEBSITE 
